@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      This is Cole's App Now!
     </section>
   </body>
 </html>
